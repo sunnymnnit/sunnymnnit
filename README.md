@@ -1,4 +1,7 @@
-## Hi there 👋
+**Hi there** 👋, this is **Sunny**.
+Working on frontend and backend projects 😉 using Java, Spring Boot, Javascript and React.js.
+Open to work/collaborate 👯
+📫 Reach out to me: https://www.linkedin.com/in/sunnymnnit/
 
 <!--
 **sunnymnnit/sunnymnnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
